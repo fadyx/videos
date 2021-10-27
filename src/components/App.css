@@ -1,0 +1,9 @@
+.ui.container {
+  margin-top: 1%;
+}
+
+.content {
+  display: grid;
+  grid-template-columns: 11fr 5fr;
+  column-gap: 2%;
+}
